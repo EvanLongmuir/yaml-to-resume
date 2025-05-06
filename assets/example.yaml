@@ -1,0 +1,58 @@
+heading:
+  name: Motoko Kusanagi
+  phone: 555-555-5555
+  email: mkusanagi@fake\_email.jp
+  linkedin: linkedin.com/in/motoko-kusanagi...
+  github: github.com/major-kusanagi...
+
+education:
+  - institution: National Defense Academy of Japan
+    location: Yokosuka, Japan
+    degree: B.S. in Cybersecurity and Systems Engineering
+    dates: 2021 -- 2025
+
+experience:
+  - title: Major, Public Security Section 9
+    dates: 2027 -- Present
+    company: Japanese National Public Safety Commission
+    location: Niihama (New Port City), Japan
+    responsibilities:
+      - Lead counter-cyberterrorism operations and tactical assault units.
+      - Coordinated with AI systems and human intelligence to neutralize cyber threats.
+      - Oversaw investigations involving cybernetic crimes and ghost-hacking incidents.
+      - Managed tactical deployments involving complex urban and digital environments.
+
+  - title: Cybernetic Systems Analyst (Contractor)
+    dates: 2025 -- 2027
+    company: Aramaki Solutions Inc.
+    location: Tokyo, Japan
+    responsibilities:
+      - Conducted vulnerability assessments of full-body cybernetic prosthetics.
+      - Designed defensive protocols for AI-integrated security systems.
+      - Advised on ethics and control mechanisms for human-augmentation programs.
+
+projects:
+  - name: Ghost Firewall Protocol
+    technologies: Rust, Assembly, Neural Net APIs, Quantum Encryption
+    description:
+      - Developed a defensive protocol to prevent ghost-hacking of cyber-brains.
+      - Integrated real-time anomaly detection and adaptive memory shielding.
+
+  - name: Puppet Master Trace System
+    technologies: Python, Splunk, GraphDB, NLP Models
+    description:
+      - Engineered a forensics suite to trace consciousness manipulation incidents.
+      - Successfully deployed during incident involving the "Puppet Master" AI entity.
+
+skills:
+  - type: Programming Languages
+    known: Python, C++, Rust, Assembly, Go
+
+  - type: Cybersecurity
+    known: Network Intrusion Detection, Cyber-Brain Defense, Ethical Hacking, Ghost-Tracing
+
+  - type: Tools \& Platforms
+    known: Splunk, Kali Linux, Metasploit, Wireshark, Neural Interface APIs
+
+  - type: Soft Skills
+    known: Strategic Leadership, Crisis Management, Multilingual Communication
