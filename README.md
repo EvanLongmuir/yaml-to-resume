@@ -1,5 +1,6 @@
 # yaml-to-resume
 yaml-to-resume is a Python script to convert resume data in a yaml format and convert it into a pdf.
+<img src="/assets/example.png" width="500"/>
 ## Installation
 Choose a directory to clone the project into using
 ```bash
@@ -27,3 +28,7 @@ options:
   -l, --latex           When enabled script will output the filled in LaTeX
                         template
 ```
+## Known Issues
+### The program will accept invald yaml files and the result is a cryptic message.
+
+The most common cause is including a special character without a `\` before it.
